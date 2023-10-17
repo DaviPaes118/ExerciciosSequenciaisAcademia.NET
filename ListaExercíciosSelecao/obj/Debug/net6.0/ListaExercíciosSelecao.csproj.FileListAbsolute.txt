@@ -1,0 +1,14 @@
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\bin\Debug\net6.0\ListaExercíciosSelecao.exe
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\bin\Debug\net6.0\ListaExercíciosSelecao.deps.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\bin\Debug\net6.0\ListaExercíciosSelecao.runtimeconfig.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\bin\Debug\net6.0\ListaExercíciosSelecao.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\bin\Debug\net6.0\ListaExercíciosSelecao.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.AssemblyInfoInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.AssemblyInfo.cs
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.csproj.CoreCompileInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\refint\ListaExercíciosSelecao.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ListaExercíciosSelecao.genruntimeconfig.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExercíciosSelecao\obj\Debug\net6.0\ref\ListaExercíciosSelecao.dll
