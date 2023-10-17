@@ -1,0 +1,14 @@
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\bin\Debug\net6.0\ListaExerciciosRepeticao.exe
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\bin\Debug\net6.0\ListaExerciciosRepeticao.deps.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\bin\Debug\net6.0\ListaExerciciosRepeticao.runtimeconfig.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\bin\Debug\net6.0\ListaExerciciosRepeticao.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\bin\Debug\net6.0\ListaExerciciosRepeticao.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.AssemblyInfoInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.AssemblyInfo.cs
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\refint\ListaExerciciosRepeticao.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ListaExerciciosRepeticao.genruntimeconfig.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosRepeticao\obj\Debug\net6.0\ref\ListaExerciciosRepeticao.dll
