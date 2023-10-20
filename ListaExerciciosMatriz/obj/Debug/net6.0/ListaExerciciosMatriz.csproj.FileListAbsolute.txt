@@ -1,0 +1,14 @@
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.AssemblyInfoInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.AssemblyInfo.cs
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\bin\Debug\net6.0\ListaExerciciosMatriz.exe
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\bin\Debug\net6.0\ListaExerciciosMatriz.deps.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\bin\Debug\net6.0\ListaExerciciosMatriz.runtimeconfig.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\bin\Debug\net6.0\ListaExerciciosMatriz.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\bin\Debug\net6.0\ListaExerciciosMatriz.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\refint\ListaExerciciosMatriz.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ListaExerciciosMatriz.genruntimeconfig.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\ListaExerciciosMatriz\obj\Debug\net6.0\ref\ListaExerciciosMatriz.dll
